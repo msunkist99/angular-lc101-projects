@@ -9,3 +9,8 @@
   ol{
       font-size: 18px;
   }
+
+  div {
+      border-color: hotpink;
+      border-style: groove;
+  }
